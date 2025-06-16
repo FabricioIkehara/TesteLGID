@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta LGID",
+      "price": 59.90,
+      "imageUrl": "camiseta.jpg",
+      "description": "Camiseta 100% algodão com estampa do LGID."
+    },
+    {
+      "id": 2,
+      "name": "Caneca LGID",
+      "price": 29.90,
+      "imageUrl": "caneca.jpg",
+      "description": "Caneca de cerâmica LGID."
+    },
+    {
+      "id": 3,
+      "name": "Mousepad LGID",
+      "price": 39.90,
+      "imageUrl": "mousepad.jpg",
+      "description": "Mousepad ergonômico com tema LGID."
+    }
+  ]
+}
